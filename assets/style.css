@@ -23,15 +23,7 @@ body {
     margin-right: 2%;
   }
   
-  .footer {
-    position: fixed;
-    bottom: 0;
-    clear: both;
-    width: 100%;
-    background: darkgray;
-    text-align: center;
-    height: 64px;
-  }
+ 
   
   h3 {
     line-height: 2;
