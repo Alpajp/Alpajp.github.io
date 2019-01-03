@@ -1,2 +1,0 @@
-# Alpajp.github.io
-Githubio
