@@ -23,7 +23,9 @@ body {
     margin-right: 2%;
   }
   
- 
+ .pText {
+   text-align: justify;
+ }
   
   h3 {
     line-height: 2;
